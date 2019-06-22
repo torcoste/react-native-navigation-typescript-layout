@@ -1,0 +1,4 @@
+#Sat Jun 22 18:24:25 MSK 2019
+base.0=/home/tor/dev/RNNtest/android/app/build/intermediates/transforms/dexMerger/debug/0
+renamed.0=classes.dex
+path.0=classes.dex
