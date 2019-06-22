@@ -9,3 +9,5 @@ run android:
 ```
 yarn run android
 ```
+
+it doesn't linked for iOS yet.
