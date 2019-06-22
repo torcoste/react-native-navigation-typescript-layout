@@ -11,3 +11,5 @@ yarn run android
 ```
 
 it doesn't linked for iOS yet.
+
+Made by following ![instructions](https://wix.github.io/react-native-navigation/#/docs/Installing).
