@@ -7,9 +7,16 @@ yarn
 
 run android:
 ```
-yarn run android
+yarn run:android
 ```
 
-it doesn't linked for iOS yet.
+run ios:
+```
+yarn run:ios
+// or
+yarn run:ios8
+// or
+yarn run:ios5s 
+```
 
 Made by following [instructions](https://wix.github.io/react-native-navigation/#/docs/Installing).

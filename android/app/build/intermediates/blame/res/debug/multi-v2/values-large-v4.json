@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/home/tor/dev/RNNtest/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-large-v4/values-large-v4.xml",
+            "outputFile": "/Users/tor/dev/experiments/react-native-navigation-typescript-layout/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-large-v4/values-large-v4.xml",
             "map": [
                 {
-                    "source": "/home/tor/.gradle/caches/transforms-2/files-2.1/d15e8a807b8b9ea37fb08da7259af563/res/values-large-v4/values-large-v4.xml",
+                    "source": "/Users/tor/.gradle/caches/transforms-2/files-2.1/16207b869c735cd2dbe3175615c97466/res/values-large-v4/values-large-v4.xml",
                     "from": {
                         "startLines": "2,3",
                         "startColumns": "4,4",
@@ -21,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "/home/tor/.gradle/caches/transforms-2/files-2.1/ef21756cbf00a65190d38d18f9d8a796/res/values-large-v4/values-large-v4.xml",
+                    "source": "/Users/tor/.gradle/caches/transforms-2/files-2.1/14403f0255da157c67786a0a544d347b/res/values-large-v4/values-large-v4.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10",
                         "startColumns": "4,4,4,4,4,4,4,4,4",

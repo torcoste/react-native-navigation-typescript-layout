@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/home/tor/dev/RNNtest/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v16/values-v16.xml",
+            "outputFile": "/Users/tor/dev/experiments/react-native-navigation-typescript-layout/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v16/values-v16.xml",
             "map": [
                 {
-                    "source": "/home/tor/.gradle/caches/transforms-2/files-2.1/ef21756cbf00a65190d38d18f9d8a796/res/values-v16/values-v16.xml",
+                    "source": "/Users/tor/.gradle/caches/transforms-2/files-2.1/14403f0255da157c67786a0a544d347b/res/values-v16/values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -23,7 +23,7 @@
                     }
                 },
                 {
-                    "source": "/home/tor/.gradle/caches/transforms-2/files-2.1/cfca0f39980bf27e2cc28e05895f5e0b/res/values-v16/values-v16.xml",
+                    "source": "/Users/tor/.gradle/caches/transforms-2/files-2.1/fe1c8b2efc68f240f23d66cb9e298547/res/values-v16/values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

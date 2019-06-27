@@ -3,9 +3,13 @@
   "version": "0.0.1",
   "private": true,
   "scripts": {
-    "start": "node node_modules/react-native/local-cli/cli.js start",
+    "start": "react-native start",
+    "start:reset": "react-native start --reset-cache",
     "test": "jest",
-    "android": "cd ./android && ./gradlew app:assembleDebug && ./gradlew installDebug"
+    "run:android": "cd ./android && ./gradlew app:assembleDebug && ./gradlew installDebug",
+    "run:ios": "react-native run-ios",
+    "run:ios8": "react-native run-ios --simulator='iPhone 8'",
+    "run:ios5s": "react-native run-ios --simulator='iPhone 5s'"
   },
   "dependencies": {
     "react": "16.8.3",

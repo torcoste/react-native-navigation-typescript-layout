@@ -1,4 +1,4 @@
-#Sat Jun 22 18:24:25 MSK 2019
-base.0=/home/tor/dev/RNNtest/android/app/build/intermediates/transforms/dexMerger/debug/0
-renamed.0=classes.dex
+#Thu Jun 27 11:08:06 MSK 2019
+base.0=/Users/tor/dev/experiments/react-native-navigation-typescript-layout/android/app/build/intermediates/transforms/dexMerger/debug/0
 path.0=classes.dex
+renamed.0=classes.dex

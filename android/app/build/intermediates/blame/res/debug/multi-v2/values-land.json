@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/home/tor/dev/RNNtest/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-land/values-land.xml",
+            "outputFile": "/Users/tor/dev/experiments/react-native-navigation-typescript-layout/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-land/values-land.xml",
             "map": [
                 {
-                    "source": "/home/tor/.gradle/caches/transforms-2/files-2.1/ef21756cbf00a65190d38d18f9d8a796/res/values-land/values-land.xml",
+                    "source": "/Users/tor/.gradle/caches/transforms-2/files-2.1/14403f0255da157c67786a0a544d347b/res/values-land/values-land.xml",
                     "from": {
                         "startLines": "2,3,4",
                         "startColumns": "4,4,4",
@@ -14,7 +14,7 @@
                     }
                 },
                 {
-                    "source": "/home/tor/.gradle/caches/transforms-2/files-2.1/d15e8a807b8b9ea37fb08da7259af563/res/values-land/values-land.xml",
+                    "source": "/Users/tor/.gradle/caches/transforms-2/files-2.1/16207b869c735cd2dbe3175615c97466/res/values-land/values-land.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

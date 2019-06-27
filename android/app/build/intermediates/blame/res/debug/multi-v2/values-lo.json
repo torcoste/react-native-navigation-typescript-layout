@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/home/tor/dev/RNNtest/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-lo/values-lo.xml",
+            "outputFile": "/Users/tor/dev/experiments/react-native-navigation-typescript-layout/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-lo/values-lo.xml",
             "map": [
                 {
-                    "source": "/home/tor/.gradle/caches/transforms-2/files-2.1/ef21756cbf00a65190d38d18f9d8a796/res/values-lo/values-lo.xml",
+                    "source": "/Users/tor/.gradle/caches/transforms-2/files-2.1/14403f0255da157c67786a0a544d347b/res/values-lo/values-lo.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -14,7 +14,7 @@
                     }
                 },
                 {
-                    "source": "/home/tor/.gradle/caches/transforms-2/files-2.1/cfca0f39980bf27e2cc28e05895f5e0b/res/values-lo/values-lo.xml",
+                    "source": "/Users/tor/.gradle/caches/transforms-2/files-2.1/fe1c8b2efc68f240f23d66cb9e298547/res/values-lo/values-lo.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
